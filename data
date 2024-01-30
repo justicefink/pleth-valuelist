@@ -1,4 +1,14 @@
 [
-  ["Knife","Scarlet",125000],
-  ["Knife","Catastrophe",50000]
+
+["Knives","Scarlet",125000],
+["Knives","Catastrophe",50000],
+
+["Unusuals","Chroma",7],
+["Unusuals","Ethereal",6],
+["Unusuals","Abyssal",5],
+["Unusuals","Stardust",3],
+["Unusuals","Shade",3],
+["Unusuals","Phantom",2],
+["Unusuals","Slaughter",2]
+
 ]
