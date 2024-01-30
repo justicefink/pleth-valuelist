@@ -1,6 +1,5 @@
 [
 
-// Enigma Crate
 ["Knifes","Krampus",385000],
 ["Knives","Scarlet",265000],
 ["Knives","Catastrophe",43500],
@@ -12,32 +11,27 @@
 ["Knives","Ghoulcendo",19500],
 ["Knifes","Shadow Blade",19500],
 
-// Spooky Crate
 ["Knifes","Vampiric Mutilator",255250],
 ["Knifes","Devil",75000],
 ["Knifes","Vampiric Batwing",18150],
 ["Knifes","Saw of Blood",17750],
 ["Knifes","Azurewrath",17750],
 
-// Pink Crate
 ["Knifes","exo",375000],
 ["Knifes","endo",375000],
 ["Knifes","Midknight",20000],
 ["Knifes","Saw of Flames",18500],
 ["Knifes","Deadly Dark",16750],
 
-// Aquatic Crate
 ["Knifes","Neptune",36500],
 ["Knifes","8-Bit Slasher",9250],
 ["Knifes","Gemstone",9250],
 ["Knifes","Slayer",9250],
 
-// Silent Crate
 ["Knifes","Spacewalker",35250],
 ["Knifes","Frostbite",8500],
 ["Knifes","Lavaseeker",8500],
 
-// Green Crate
 ["Knifes","Eruption",85000],
 ["Knifes","Magnifique",85000],
 ["Knifes","sparkling dagger",80000],
@@ -46,13 +40,11 @@
 ["Knifes","Neon Batwing",7500],
 ["Knifes","Azure Shard",7500],
 
-// Asuu's Crate
 ["Knives","Eclipsed",45000],
 ["Knives","Cursed Katana",14000],
 ["Knives","Hydro Katana",12500],
 
 
-// BLANK Crate [Template/Dont Delete]
 ["Knives","KNIFE_NAME",0],
 
 
