@@ -56,10 +56,7 @@
 ["Unusuals","Phantom",10],
 ["Unusuals","Slaughter",10],
 
-["Alters","Signature 1",2],
-["Alters","Signature 2",2],
-["Alters","Signature 3",2],
-["Alters","Altered",0.25],
-["Alters","Cursed",0.5]
+["Alters","Altered",4],
+["Alters","Cursed",2]
 
 ]
