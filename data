@@ -1,5 +1,11 @@
 [
 
+["Knives","Silent's Pixelator",400000],
+["Knives","Silent's Neonic HAMMAR",415500],
+["Knives","Nature Saber",500000],
+["Knives","AzureByte",500000],
+["Knives","fairy dagger",500000],
+
 ["Knives","Krampus",385000],
 ["Knives","Scarlet",265000],
 ["Knives","Catastrophe",43500],
@@ -40,9 +46,27 @@
 ["Knives","Neon Batwing",7500],
 ["Knives","Azure Shard",7500],
 
+["Knives","Dragon's Breath",130000],
 ["Knives","Eclipsed",45000],
 ["Knives","Cursed Katana",14000],
 ["Knives","Hydro Katana",12500],
+
+["Knives","Jeweled Cutlass",90000],
+
+["Knives","Competitor",545000],
+["Knives","Dominator",235000],
+["Knives","Embossed",110000],
+
+["Knives","Gemstone Scythe",175000],
+["Knives","Corruptor",58000],
+["Knives","Void's Edge",20000],
+["Knives","Ice Saber",9000],
+["Knives","Immortal Batwing",9000],
+["Knives","Doombringer",9000],
+
+["Knives","Sakura Elemental",56000],
+["Knives","Blizzard Beast",23500],
+["Knives","Arachnid",90250],
 
 
 ["Knives","KNIFE_NAME",0],
