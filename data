@@ -18,7 +18,7 @@
 ["Knives","Ghoulcendo",19500],
 ["Knives","Shadow Blade",19500],
 
-["Knives","Vampiric Mutilator",255250],
+["Knives","Vampire Mutilator",375250],
 ["Knives","Devil",75000],
 ["Knives","Vampiric Batwing",18150],
 ["Knives","Saw of Blood",17750],
@@ -39,9 +39,9 @@
 ["Knives","Frostbite",8500],
 ["Knives","Lavaseeker",8500],
 
-["Knives","Eruption",85000],
-["Knives","Magnifique",85000],
-["Knives","sparkling dagger",80000],
+["Knives","Eruption",200000],
+["Knives","Magnifique",200000],
+["Knives","sparkling dagger",245000],
 ["Knives","Dia",34000],
 ["Knives","Crescendia",7500],
 ["Knives","Neon Batwing",7500],
