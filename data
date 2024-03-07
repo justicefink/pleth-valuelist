@@ -3,12 +3,13 @@
 ["Knives","Silent's Pixelator",400000],
 ["Knives","Silent's Neonic HAMMAR",415500],
 ["Knives","Cryptic HAMMAR",415500],
-["Knives","Nature Saber",500000],
-["Knives","AzureByte",500000],
+["Knives","Nature Saber",1000000],
+
 ["Knives","fairy dagger",500000],
 
 ["Knives","Krampus",4000000],
-["Knives","Scarlet",465000],
+["Knives","AzureByte",650000],
+["Knives","Scarlet",575000],
 ["Knives","Catastrophe",43500],
 ["Knives","Clockworks Saw",42000],
 ["Knives","Axe of Chaos",15000],
@@ -18,14 +19,14 @@
 ["Knives","Ghoulcendo",19500],
 ["Knives","Shadow Blade",19500],
 
-["Knives","Vampire Mutilator",375250],
+["Knives","Vampire Mutilator",345000],
 ["Knives","Devil",75000],
 ["Knives","Vampiric Batwing",18150],
 ["Knives","Saw of Blood",17750],
 ["Knives","Azurewrath",17750],
 
-["Knives","exo",375000],
-["Knives","endo",375000],
+["Knives","exo",425000],
+["Knives","endo",425000],
 ["Knives","Midknight",20000],
 ["Knives","Saw of Flames",18500],
 ["Knives","Deadly Dark",16750],
@@ -47,7 +48,7 @@
 ["Knives","Neon Batwing",7500],
 ["Knives","Azure Shard",7500],
 
-["Knives","Dragon's Breath",130000],
+["Knives","Spline",250000],
 ["Knives","Eclipsed",45000],
 ["Knives","Cursed Katana",14000],
 ["Knives","Hydro Katana",12500],
