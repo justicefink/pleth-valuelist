@@ -5,7 +5,7 @@
 ["Knives","Cryptic HAMMAR",415500],
 ["Knives","Nature Saber",1000000],
 
-["Knives","fairy dagger",500000],
+["Knives","fairy dagger",1000000],
 
 ["Knives","Krampus",4000000],
 ["Knives","AzureByte",650000],
@@ -68,10 +68,10 @@
 ["Knives","Immortal Batwing",9000],
 ["Knives","Doombringer",9000],
 
-["Knives","Sakura Elemental",56000],
-["Knives","Tempest",23500],
-["Knives","Heartbreaker",27500],
-["Knives","Arachnid",90250],
+["Knives","Sakura Elemental",1050000],
+["Knives","Tempest",35000],
+["Knives","Heartbreaker",35000],
+["Knives","Arachnid",400000],
 
 
 ["Knives","KNIFE_NAME",0],
