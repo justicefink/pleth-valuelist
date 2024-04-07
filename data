@@ -1,6 +1,5 @@
 [
 
-["Knives","Pumpking",12000000],
 ["Knives","Silent's Pixelator",400000],
 ["Knives","Silent's Neonic HAMMAR",1115500],
 
@@ -72,7 +71,9 @@
 ["Knives","Tempest",35000],
 ["Knives","Heartbreaker",35000],
 ["Knives","Arachnid",400000],
-
+["Knives","Pumpking",12000000],
+["Knives","Celtic Hydra",250000],
+["Knives","Candy Cane",100000],
 
 ["Knives","KNIFE_NAME",0],
 
