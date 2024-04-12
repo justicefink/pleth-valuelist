@@ -1,9 +1,10 @@
 [
 
 ["Knives","Silent's Pixelator",400000],
-["Knives","Silent's Neonic HAMMAR",1115500],
 
-["Knives","fairy dagger",1000000],
+["Knives","Yellow Jacket",25000000],
+["Knives","fairy dagger",20000000],
+["Knives","indigo",20000000],
 
 ["Knives","Krampus",4000000],
 ["Knives","AzureByte",650000],
@@ -60,6 +61,7 @@
 ["Knives","Dominator",235000],
 ["Knives","Embossed",110000],
 
+["Knives","Silent's Neonic HAMMAR",1115500],
 ["Knives","Gift Blade",125000],
 ["Knives","Void's Edge",20000],
 ["Knives","Ice Saber",9000],
@@ -67,12 +69,12 @@
 ["Knives","Doombringer",9000],
 
 ["Knives","Sakura Elemental",1050000],
-["Knives","Tempest",35000],
-["Knives","Heartbreaker",35000],
-["Knives","Arachnid",400000],
 ["Knives","Pumpking",12000000],
-["Knives","Celtic Hydra",250000],
+["Knives","Arachnid",400000],
 ["Knives","Candy Cane",100000],
+["Knives","Tempest",35000],
+["Knives","Ice King",35000],
+["Knives","Lavalord",35000],
 
 ["Knives","KNIFE_NAME",0],
 
