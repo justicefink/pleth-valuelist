@@ -81,7 +81,6 @@
 
 ["Knives","KNIFE_NAME",0],
 
-
 ["Unusuals","Cataclysm",-1],
 ["Unusuals","Frozen",40],
 ["Unusuals","Essence",30],
@@ -93,6 +92,13 @@
 ["Unusuals","Slaughter",10],
 
 ["Alters","Altered",4],
-["Alters","Cursed",2]
+["Alters","Cursed",2],
+
+["Base","Contraband",75000],
+["Base","Mythic",30000],
+["Base","Legendary",15000],
+["Base","Rare",3000],
+["Base","Uncommon",1250],
+["Base","Common",750]
 
 ]
