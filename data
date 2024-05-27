@@ -96,9 +96,9 @@
 
 ["Base","Contraband",75000],
 ["Base","Mythic",30000],
-["Base","Legendary",15000],
-["Base","Rare",3000],
-["Base","Uncommon",1250],
-["Base","Common",750]
+["Base","Legendary",10000],
+["Base","Rare",2000],
+["Base","Uncommon",800],
+["Base","Common",500]
 
 ]
